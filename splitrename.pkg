@@ -1,0 +1,8 @@
+v 0.1
+d splitrename.  Rename a series of indicators from a categorical variable and re-label each according to the original variable's value label.
+d Created by Aaron Wolf (aaron.wolf@yale.edu)
+d
+d Note: splitrename is still a work in progress. Please feel free to comment and contribute at https://github.com/aarondwolf/splitrename.
+
+F splitrename.ado
+F splitrename.sthlp

@@ -1,0 +1,11 @@
+v 0.2
+d Created by Aaron Wolf (aaron.wolf@yale.edu)
+
+d 	Installation instructions:
+d	net install splitrename, from("https://aarondwolf.github.io/splitrename") replace
+d
+d	splitrename is still a work in progress.
+d Please feel free to comment and contribute at https://github.com/aarondwolf/splitrename.
+
+
+p splitrename Rename a series of indicators from a categorical variable and re-label each according to the original variable's value label.
