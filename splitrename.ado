@@ -1,4 +1,4 @@
-*! version 1.0.1  13sep2019 Aaron Wolf, aaron.wolf@yale.edu
+*! version 1.0.1  13sep2019 Aaron Wolf, aaron.wolf@u.northwestern.edu
 cap program drop splitrename
 program define splitrename, rclass
 		syntax varlist, OLDname(name) NEWname(name)
